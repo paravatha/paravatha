@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on **AI/ML**
 - 💬 Ask me about **Kubernetes and OpenShift**
 - 📫 How to reach me: https://twitter.com/prasadparavatha
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I like to dance 
