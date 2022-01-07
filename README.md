@@ -7,7 +7,7 @@
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://twitter.com/prasadparavatha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/en/6/60/Twitter_Logo_as_of_2021.svg" alt="prasadtwitter" height="30" width="30" /></a> &nbsp;&nbsp;
+<a href="https://twitter.com/prasadparavatha" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter-logo.svg" alt="prasadtwitter" height="30" width="30" /></a> &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/paravatha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prasadlinkedin" height="30" width="30" /></a>
 &nbsp;&nbsp;
 <a href="https://medium.com/@paravatha" target="blank"><img align="center" src="https://miro.medium.com/fit/c/288/288/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="prasadmedium" height="30" width="30" /></a>  
