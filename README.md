@@ -2,7 +2,7 @@
 
 - 🔭 I currently work as a Principal Engineer at the intersection of **Kubernetes/OpenShift, Data Science/Machine learning & Software Engineering**.
 - 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine learning**
-- 👨‍💻 I’m looking to collaborate on **Kubernetes, OpenShift, Data Science, Artificial Intelligence, Machine learning**
+- 👨‍💻 I’m looking to collaborate on **Kubernetes, OpenShift, Data Science, Artificial Intelligence, Machine learning and Distributed computing**
 - 💬 Ask me about **Kubernetes or OpenShift**
 
 🔗 &nbsp;**Connect with me**
