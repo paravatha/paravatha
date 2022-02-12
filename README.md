@@ -12,7 +12,5 @@
 &nbsp;&nbsp;
 <a href="https://medium.com/@paravatha" target="blank"><img align="center" src="https://miro.medium.com/fit/c/288/288/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="prasadmedium" height="30" width="30" /></a>  
   
-[![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=paravatha)](https://github.com/paravatha/github-readme-stats)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paravatha)](https://github.com/paravatha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paravatha&langs_count=10)](https://github.com/paravatha/github-readme-stats) [![Prasad's GitHub stats](https://github-readme-stats.vercel.app/api?username=paravatha&count_private=true)](https://github.com/paravatha/github-readme-stats) 
   
