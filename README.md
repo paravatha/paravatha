@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I currently work as a MLOps Engineer at the intersection of **Kubernetes/OpenShift, Data Science/Machine learning & Software Engineering**.
-- 🌱 I’m currently learning **Data Science, Artificial Intelligence, Machine learning**
-- 👨‍💻 I’m looking to collaborate on **Kubernetes, OpenShift, Distributed computing, Data Science, Artificial Intelligence and Machine learning**
+- 🔭 I currently work as a MLOps Engineer at the intersection of **Kubernetes/OpenShift, Data Science/Machine learning/Artificial Intelligence & Software Engineering**.
+- 🌱 I’m currently learning **Data Science, Machine learning and Artificial Intelligence**
+- 👨‍💻 I’m looking to collaborate on **Kubernetes, OpenShift, Distributed computing, Data Science, Machine learning and Artificial Intelligence**
 - 💬 Ask me about **Kubernetes or OpenShift**
 
 🔗 &nbsp;**Connect with me**
