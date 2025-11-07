@@ -8,6 +8,8 @@
 🔗 &nbsp;**Connect with me** on <a href="https://www.linkedin.com/in/paravatha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prasadlinkedin" height="30" width="30" /></a>
 &nbsp;&nbsp;<a href="https://medium.com/@paravatha" target="blank"><img align="center" src="https://miro.medium.com/fit/c/288/288/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="prasadmedium" height="30" width="30" /></a>  
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paravatha&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+
 [![paravatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=paravatha)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=paravatha&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <!-- <p align="center">
