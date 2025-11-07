@@ -8,7 +8,7 @@
 🔗 &nbsp;**Connect with me** on <a href="https://www.linkedin.com/in/paravatha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prasadlinkedin" height="30" width="30" /></a>
 &nbsp;&nbsp;<a href="https://medium.com/@paravatha" target="blank"><img align="center" src="https://miro.medium.com/fit/c/288/288/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="prasadmedium" height="30" width="30" /></a>  
 
-[![paravatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=paravatha)](https://github.com/anuraghazra/github-readme-stats)
+[![paravatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=paravatha)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
 <!-- <p align="center">
   </br>
   
