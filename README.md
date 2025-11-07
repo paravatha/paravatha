@@ -8,28 +8,8 @@
 🔗 &nbsp;**Connect with me** on <a href="https://www.linkedin.com/in/paravatha" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="prasadlinkedin" height="30" width="30" /></a>
 &nbsp;&nbsp;<a href="https://medium.com/@paravatha" target="blank"><img align="center" src="https://miro.medium.com/fit/c/288/288/1*sHhtYhaCe2Uc3IU0IgKwIQ.png" alt="prasadmedium" height="30" width="30" /></a>  
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paravatha&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
-
-[![paravatha's GitHub stats](https://github-readme-stats.vercel.app/api?username=paravatha)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=paravatha&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
-<!-- <p align="center">
+<p align="center">
   </br>
-  
-  <a href="https://git.io/streak-stats">
-    <img src=https://streak-stats.demolab.com/?user=paravatha&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-   
-  </br>
-  </br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=paravatha&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
-  
-  </br>
-  </br>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=paravatha&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
-  </a> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=paravatha&theme=darcula&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
     
 </p>
