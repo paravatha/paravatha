@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I currently work as a AI/ML Plaform (MLOps) Engineer at the intersection of **Kubernetes, Cloud computing (AWS & Azure), Data Science/Machine learning/Artificial Intelligence & Software Engineering**.
+- 🔭 I currently work in AI/ML Plaform domain as a MLOps Engineer at the intersection of **Kubernetes, Cloud computing (AWS & Azure), Data Science/Machine learning/Artificial Intelligence & Software Engineering**.
 - 🌱 I’m currently learning **Data Science, Machine learning and Artificial Intelligence**
 - 👨‍💻 I’m looking to collaborate on **Kubernetes, Cloud computing, Data Science, Machine learning & Artificial Intelligence**
 - 💬 Ask me about **Kubernetes or Cloud computing (AWS & Azure)**
